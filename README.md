@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React ,Next Js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-404-nmk.vercel.app/](https://portfolio-nmk.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-nmk.vercel.app/](https://portfolio-nmk.vercel.app/)
 
 - 📫 How to reach me **nyominkhat329@gmail.com**
 
